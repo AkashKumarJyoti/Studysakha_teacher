@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "275705420232",
+    "project_id": "studysakha-65319",
+    "storage_bucket": "studysakha-65319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275705420232:android:faa77ee819c34f3251c8fd",
+        "android_client_info": {
+          "package_name": "com.example.studysakha_callCenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U7Sgx41Nh98oVV268XLIHmK1vTgLVJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275705420232:android:0a8693f2769e015c51c8fd",
+        "android_client_info": {
+          "package_name": "com.example.studysakha_calling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U7Sgx41Nh98oVV268XLIHmK1vTgLVJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275705420232:android:bdacc3bda5170eed51c8fd",
+        "android_client_info": {
+          "package_name": "com.example.studysakha_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4U7Sgx41Nh98oVV268XLIHmK1vTgLVJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
